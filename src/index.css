@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'TikTok Font';
+  src: url('./assets/fonts/TikTokFont-Bold.woff2');
+}
+
+body {
+  margin: 0;
+  font-family: "TikTok Font", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
